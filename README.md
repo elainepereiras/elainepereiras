@@ -5,7 +5,8 @@
 
 ## 👨‍💻 About Me
 
-**A student of Data Analysis**, I am always looking for new opportunities to apply my knowledge and contribute to challenging projects involving data analysis, transformation and visualization.
+**A student of Data Analysis,**
+I am always looking for new opportunities to apply my knowledge and contribute to challenging projects involving data analysis, transformation and visualization.
 
 I'm currently learning and applying:
 
